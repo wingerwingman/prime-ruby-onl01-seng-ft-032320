@@ -1,1 +1,3 @@
-# Add  code here!
+require 'prime'
+
+Prime.prime?
