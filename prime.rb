@@ -1,3 +1,4 @@
 require 'prime'
-
-Prime.prime?
+def prime?(num)
+num.prime?
+end
